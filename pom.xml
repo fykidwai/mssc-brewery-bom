@@ -13,4 +13,27 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>mssc-brewery-bom</name>
+	<developers>
+		<developer>
+			<name>Faiz Kidwai</name>
+			<email>f.y.kidwai@gmail.com</email>
+		</developer>
+	</developers>
+	<url>https://github.com/fykidwai/mssc-brewery-bom</url>
+	<scm>
+		<url>https://github.com/fykidwai/mssc-brewery-bom</url>
+		<connection>scm:git:git://github.com/fykidwai/mssc-brewery-bom.git</connection>
+		<developerConnection>scm:git:git@github.com:fykidwai/mssc-brewery-bom.git</developerConnection>
+	</scm>
+	<issueManagement>
+		<url>https://github.com/fykidwai/mssc-brewery-bom/issues</url>
+		<system>GitHub Issues</system>
+	</issueManagement>
+	<properties>
+		<java.version>11</java.version>
+		<maven.compiler.source>${java.version}</maven.compiler.source>
+		<maven.compiler.target>${java.version}</maven.compiler.target>
+		<mapstruct.version>1.4.1.Final</mapstruct.version>
+		<org.springdoc.version>1.4.8</org.springdoc.version>
+	</properties>
 </project>
