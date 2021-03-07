@@ -1,9 +1,11 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>io.github.fykidwai</groupId>
         <artifactId>fyk-beer-works-bom</artifactId>
-        <version>1.7</version>
+        <version>1.8</version>
     </parent>
     <artifactId>mssc-brewery-bom</artifactId>
     <version>1.7-SNAPSHOT</version>
@@ -14,8 +16,8 @@
         <url>https://github.com/fykidwai/mssc-brewery-bom</url>
         <connection>scm:git:https://github.com/fykidwai/mssc-brewery-bom.git</connection>
         <developerConnection>scm:git:https://fykidwai@github.com/fykidwai/mssc-brewery-bom.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
     <issueManagement>
         <url>https://github.com/fykidwai/mssc-brewery-bom/issues</url>
         <system>GitHub Issues</system>
