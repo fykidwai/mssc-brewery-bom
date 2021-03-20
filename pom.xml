@@ -6,7 +6,7 @@
         <version>1.11</version>
     </parent>
     <artifactId>mssc-brewery-bom</artifactId>
-    <version>1.11-SNAPSHOT</version>
+    <version>1.11</version>
     <packaging>pom</packaging>
     <name>mssc-brewery-bom</name>
     <url>https://github.com/fykidwai/mssc-brewery-bom</url>
@@ -14,7 +14,7 @@
         <url>https://github.com/fykidwai/mssc-brewery-bom</url>
         <connection>scm:git:https://github.com/fykidwai/mssc-brewery-bom.git</connection>
         <developerConnection>scm:git:https://fykidwai@github.com/fykidwai/mssc-brewery-bom.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.11</tag>
     </scm>
     <issueManagement>
         <url>https://github.com/fykidwai/mssc-brewery-bom/issues</url>
